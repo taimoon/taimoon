@@ -21,11 +21,10 @@ Hello, I am Teng Man.
 - Enjoy math, programming, reading, music
 - Currently learning web development related
 
-### Programming and Markup
+### Languages and Markup
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ### Libraries and Tools
@@ -53,3 +52,9 @@ Hello, I am Teng Man.
 2. [Python Note](https://github.com/taimoon/Note)
 3. [C summation various idioms](https://github.com/taimoon/C-summation-example/blob/main/main.c)
 
+### Languages with some experience (Order by Proficiency)
+![Racket](https://img.shields.io/badge/-Racket-inactive?style=for-the-badge)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
