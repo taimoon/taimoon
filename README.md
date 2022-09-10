@@ -49,7 +49,7 @@ Hello, I am Teng Man.
 3. [Freight Port Management Database Project](https://github.com/taimoon/pr1ma-eligibility-checker)
 
 ### Personal Projects
-1. [C summation various idioms](https://github.com/taimoon/C-summation-example/blob/main/main.c)
-2. [Note](https://github.com/taimoon/Note)
-3. [nand2tetris: building a modern computer from first principles](https://github.com/taimoon/nand2tetris)
+1. **[nand2tetris: building a modern computer from first principles](https://github.com/taimoon/nand2tetris)**
+2. [Python Note](https://github.com/taimoon/Note)
+3. [C summation various idioms](https://github.com/taimoon/C-summation-example/blob/main/main.c)
 
