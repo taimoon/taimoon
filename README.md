@@ -51,4 +51,5 @@ Hello, I am Teng Man.
 ### Personal Projects
 1. [C summation various idioms](https://github.com/taimoon/C-summation-example/blob/main/main.c)
 2. [Note](https://github.com/taimoon/Note)
+3. [nand2tetris: building a modern computer from first principles](https://github.com/taimoon/nand2tetris)
 
