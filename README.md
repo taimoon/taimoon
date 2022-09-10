@@ -42,3 +42,13 @@ Hello, I am Teng Man.
 ![Calculus](https://img.shields.io/badge/-Calculus-orange?style=for-the-badge)
 ![Group Theory](https://img.shields.io/badge/-Group%20Theory-inactive?style=for-the-badge)
 ![Logic](https://img.shields.io/badge/-Logic-inactive?style=for-the-badge)
+
+### Some of My School Projects
+1. [Library Catalog App using Tkinter](https://github.com/taimoon/DSP-project-Library-Catalog)
+2. [DSA: Simple Console for inventory management](https://github.com/taimoon/DSAGroupProject)
+3. [Freight Port Management Database Project](https://github.com/taimoon/pr1ma-eligibility-checker)
+
+### Personal Projects
+1. [C summation various idioms](https://github.com/taimoon/C-summation-example/blob/main/main.c)
+2. [Note](https://github.com/taimoon/Note)
+
