@@ -45,7 +45,7 @@ Hello, I am Teng Man.
 ### Some of My School Projects
 1. [Library Catalog App using Tkinter](https://github.com/taimoon/DSP-project-Library-Catalog)
 2. [DSA: Simple Console for inventory management](https://github.com/taimoon/DSAGroupProject)
-3. [Freight Port Management Database Project](https://github.com/taimoon/pr1ma-eligibility-checker)
+3. [Freight Port Management Database Project](https://github.com/taimoon/database-project)
 
 ### Personal Projects
 1. **[nand2tetris: building a modern computer from first principles](https://github.com/taimoon/nand2tetris)**
