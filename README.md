@@ -45,6 +45,7 @@ Hello, I am Teng Man.
 1. [Library Catalog App using Tkinter](https://github.com/taimoon/DSP-project-Library-Catalog)
 2. [DSA: Simple Console for inventory management](https://github.com/taimoon/DSAGroupProject)
 3. [Freight Port Management Database Project](https://github.com/taimoon/database-project)
+4. [Handwritten Digit Recognition](https://github.com/taimoon/handwritten-digits-recognition)
 
 ### Personal Projects
 1. **[nand2tetris: building a modern computer from first principles](https://github.com/taimoon/nand2tetris)**
