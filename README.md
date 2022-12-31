@@ -20,6 +20,9 @@ Hello, I am Teng Man.
 - Data analytic student at Malaysia Pahang University
 - Enjoy math, programming, reading, music
 
+### Current
+- Working on Data Science Project (i.e.: Final Year Project) titled "Temporal Graph for Fraud Detection & Analytics"
+
 ### Languages and Markup
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
