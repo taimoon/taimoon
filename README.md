@@ -27,13 +27,16 @@ Hello, I am Teng Man.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=SQLite&logoColor=white&style=for-the-badge)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ### Libraries and Tools
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=white&style=for-the-badge)
+![Sklearn](https://img.shields.io/badge/-Sklearn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
 
 ### Mathematics
 ![Proof](https://img.shields.io/badge/-Proof-brightgreen?style=for-the-badge)
@@ -46,7 +49,7 @@ Hello, I am Teng Man.
 
 ### Some of My School Projects
 1. [Library Catalog App using Tkinter](https://github.com/taimoon/DSP-project-Library-Catalog)
-2. [DSA: Simple Console for inventory management](https://github.com/taimoon/DSAGroupProject)
+2. [DSA - Simple Console for inventory management](https://github.com/taimoon/DSAGroupProject)
 3. [Freight Port Management Database Project](https://github.com/taimoon/database-project)
 4. [Handwritten Digit Recognition](https://github.com/taimoon/handwritten-digits-recognition)
 
