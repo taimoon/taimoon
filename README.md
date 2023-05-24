@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 ### Current
 - Working on Data Science Project (i.e.: Final Year Project) titled "Temporal Graph for Fraud Detection & Analytics"
-- Intership
+- Occasionally wokrning on "Essentials of Programming Languages" (EOPL) in Python
+- Internship
 
 ### Libraries and Tools
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
