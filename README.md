@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 - Data analytic student at Malaysia Pahang University
 - Enjoy math, programming, reading, music
 
+### Interest Area
+- Math
+- Deep Learning
+- Programming Languages, Computing Systems
+
 ### Current
 - Working on Data Science Project (i.e.: Final Year Project) titled "Temporal Graph for Fraud Detection & Analytics"
 - Occasionally wokrning on "Essentials of Programming Languages" (EOPL) in Python
@@ -34,7 +39,7 @@ Here are some ideas to get you started:
 ### Mathematics
 ![Proof](https://img.shields.io/badge/-Proof-brightgreen?style=for-the-badge)
 ![Mathmatical Statistics](https://img.shields.io/badge/-Statistics-brightgreen?style=for-the-badge)
-![Linear Algebra](https://img.shields.io/badge/-Operational%20Research-brightgreen?style=for-the-badge)
+![Operational Research](https://img.shields.io/badge/-Operational%20Research-brightgreen?style=for-the-badge)
 ![Linear Algebra](https://img.shields.io/badge/-Linear%20Algebra-brightgreen?style=for-the-badge)
 ![Calculus](https://img.shields.io/badge/-Calculus-orange?style=for-the-badge)
 ![Group Theory](https://img.shields.io/badge/-Group%20Theory-inactive?style=for-the-badge)
