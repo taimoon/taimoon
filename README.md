@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - Data analytic student at Malaysia Pahang University
 - Enjoy math, programming, reading, music
 
-### Interest Area
+### Interest
 - Math
 - Deep Learning
 - Programming Languages, Computing Systems
