@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### Current
 - Working on Data Science Project (i.e.: Final Year Project) titled "Temporal Graph for Fraud Detection & Analytics"
-- Occasionally wokrning on "Essentials of Programming Languages" (EOPL) in Python
+- Occasionally working on "Essentials of Programming Languages" (EOPL) in Python
 - Internship
 
 ### Libraries and Tools
