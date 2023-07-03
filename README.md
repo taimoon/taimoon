@@ -17,14 +17,8 @@ Here are some ideas to get you started:
 - Data analytic student at Malaysia Pahang University
 - Enjoy math, programming, reading, music
 
-### Interest
-- Math
-- Deep Learning
-- Programming Languages, Computing Systems
-
 ### Current
-- Working on Data Science Project (i.e.: Final Year Project) titled "Temporal Graph for Fraud Detection & Analytics"
-- Occasionally working on "Essentials of Programming Languages" (EOPL) in Python
+- Working on "Essentials of Programming Languages" (EOPL) in Python
 - Internship
 
 ### Libraries and Tools
@@ -46,10 +40,11 @@ Here are some ideas to get you started:
 ![Logic](https://img.shields.io/badge/-Logic-inactive?style=for-the-badge)
 
 ### Some of My School Projects
-1. [Library Catalog App using Tkinter](https://github.com/taimoon/DSP-project-Library-Catalog)
-2. [DSA - Simple Console for inventory management](https://github.com/taimoon/DSAGroupProject)
-3. [Freight Port Management Database Project](https://github.com/taimoon/database-project)
-4. [Handwritten Digit Recognition](https://github.com/taimoon/handwritten-digits-recognition)
+1. [graph-for-fraud-detection](https://github.com/taimoon/graph-for-fraud-detection)
+2. [Library Catalog App using Tkinter](https://github.com/taimoon/DSP-project-Library-Catalog)
+3. [DSA - Simple Console for inventory management](https://github.com/taimoon/DSAGroupProject)
+4. [Freight Port Management Database Project](https://github.com/taimoon/database-project)
+5. [Handwritten Digit Recognition](https://github.com/taimoon/handwritten-digits-recognition)
 
 ### Personal Projects
 1. **[nand2tetris: building a modern computer from first principles](https://github.com/taimoon/nand2tetris)**
