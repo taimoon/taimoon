@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - I'm Teng Man
 - Data analytic student at Malaysia Pahang University
 - Enjoy math, programming, reading, music
+- Working Knowledge of Deep Learning, Machine Learning, Graph ML using Pytorch, Pytorch Geometric
 
 ### Current
 - Working on "Essentials of Programming Languages" (EOPL) in Python
