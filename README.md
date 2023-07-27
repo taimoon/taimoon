@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ![Logic](https://img.shields.io/badge/-Logic-inactive?style=for-the-badge)
 
 ### Some of My School Projects
-1. [graph-for-fraud-detection](https://github.com/taimoon/graph-for-fraud-detection)
+1. [Final Year Project - Graph for Fraud Detection](https://github.com/taimoon/graph-for-fraud-detection)
 2. [Library Catalog App using Tkinter](https://github.com/taimoon/DSP-project-Library-Catalog)
 3. [DSA - Simple Console for inventory management](https://github.com/taimoon/DSAGroupProject)
 4. [Freight Port Management Database Project](https://github.com/taimoon/database-project)
@@ -49,8 +49,8 @@ Here are some ideas to get you started:
 
 ### Personal Projects
 1. **[nand2tetris: building a modern computer from first principles](https://github.com/taimoon/nand2tetris)**
-2. [Python Note](https://github.com/taimoon/Note)
-3. [C summation various idioms](https://github.com/taimoon/C-summation-example/blob/main/main.c)
+2. [Essentials of Programming Languages](https://github.com/taimoon/EOPL)
+3. [Python Note](https://github.com/taimoon/Note)
 
 ### Languages and Markup (Order by Proficiency)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
