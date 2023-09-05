@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - Working Knowledge of Deep Learning, Machine Learning, Graph ML using Pytorch, Pytorch Geometric
 
 ### Current
-- Working on "Essentials of Programming Languages" (EOPL) in Python
+- Learning from [IUCompilerCourse](https://github.com/IUCompilerCourse)
 - Internship
 
 ### Libraries and Tools
