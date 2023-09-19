@@ -40,6 +40,11 @@ Here are some ideas to get you started:
 ![Group Theory](https://img.shields.io/badge/-Group%20Theory-inactive?style=for-the-badge)
 ![Logic](https://img.shields.io/badge/-Logic-inactive?style=for-the-badge)
 
+### Projects
+1. **[nand2tetris: building a modern computer from first principles](https://github.com/taimoon/nand2tetris)**
+2. [Essentials of Programming Languages](https://github.com/taimoon/EOPL)
+3. [Python Note](https://github.com/taimoon/Note)
+
 ### Some of My School Projects
 #### Data Science
 1. [Final Year Project - Graph for Fraud Detection](https://github.com/taimoon/graph-for-fraud-detection)
@@ -50,11 +55,6 @@ Here are some ideas to get you started:
 1. [Library Catalog App using Tkinter](https://github.com/taimoon/DSP-project-Library-Catalog)
 2. [DSA - Simple Console for inventory management](https://github.com/taimoon/DSAGroupProject)
 3. [Freight Port Management Database Project](https://github.com/taimoon/database-project)
-
-### Personal Projects
-1. **[nand2tetris: building a modern computer from first principles](https://github.com/taimoon/nand2tetris)**
-2. [Essentials of Programming Languages](https://github.com/taimoon/EOPL)
-3. [Python Note](https://github.com/taimoon/Note)
 
 ### Languages and Markup (Order by Proficiency)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
