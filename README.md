@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 - Data analytic student at Malaysia Pahang University
 - Enjoy math, programming, reading, music
 - Working Knowledge of Deep Learning, Machine Learning, Graph ML using Pytorch, Pytorch Geometric
+- Working Knowledge of Programming Language Implementation
 
 ### Current
 - Learning from [IUCompilerCourse](https://github.com/IUCompilerCourse)
-- Internship
 
 ### Libraries and Tools
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -41,9 +41,10 @@ Here are some ideas to get you started:
 ![Logic](https://img.shields.io/badge/-Logic-inactive?style=for-the-badge)
 
 ### Projects
-1. **[nand2tetris: building a modern computer from first principles](https://github.com/taimoon/nand2tetris)**
+1. [nand2tetris: building a modern computer from first principles](https://github.com/taimoon/nand2tetris)
 2. [Essentials of Programming Languages](https://github.com/taimoon/EOPL)
-3. [Python Note](https://github.com/taimoon/Note)
+3. [Python: IUCompiler Implementation](https://github.com/taimoon/python-student-support-code/tree/development)
+4. [Python Note](https://github.com/taimoon/Note)
 
 ### Some of My School Projects
 #### Data Science
