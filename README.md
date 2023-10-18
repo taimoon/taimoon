@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - Working Knowledge of Programming Language Implementation
 
 ### Current
-- Learning from [IUCompilerCourse](https://github.com/IUCompilerCourse)
+- Interested in Programming Language Implementation
 
 ### Libraries and Tools
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
