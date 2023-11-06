@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - Enjoy math, programming, reading, music
 - Working Knowledge of Deep Learning, Machine Learning, Graph ML using Pytorch, Pytorch Geometric
 - Working Knowledge of Programming Language Implementation
+- Definitely not that emergency food, merely coincidental
 
 ### Current
 - Interested in Programming Language Implementation
