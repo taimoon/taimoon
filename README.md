@@ -49,9 +49,10 @@ Here are some ideas to get you started:
 ![Logic](https://img.shields.io/badge/-Logic-inactive?style=for-the-badge)
 
 ### Projects
-1. [CPS-CScheme](https://github.com/taimoon/CPS-CScheme)
-2. [Essentials of Programming Languages](https://github.com/taimoon/EOPL)
-3. [Python: IUCompiler Implementation](https://github.com/taimoon/python-student-support-code/tree/development)
-4. [Python Note](https://github.com/taimoon/Note)
-5. [Final Year Project - Graph for Fraud Detection](https://github.com/taimoon/graph-for-fraud-detection)
-6. [nand2tetris: building a modern computer from first principles](https://github.com/taimoon/nand2tetris)
+1. [scheme-compiler](https://github.com/taimoon/scheme-compiler)
+2. [CPS-CScheme](https://github.com/taimoon/CPS-CScheme)
+3. [Essentials of Programming Languages](https://github.com/taimoon/EOPL)
+4. [Python: IUCompiler Implementation](https://github.com/taimoon/python-student-support-code/tree/development)
+5. [Python Note](https://github.com/taimoon/Note)
+6. [Final Year Project - Graph for Fraud Detection](https://github.com/taimoon/graph-for-fraud-detection)
+7. [nand2tetris: building a modern computer from first principles](https://github.com/taimoon/nand2tetris)
