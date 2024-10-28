@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 ### Current
 - Interested in Programming Language Implementation
-- Open to post-doc opportunity
 
 ### Libraries and Tools (by Preference)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
