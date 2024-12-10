@@ -43,7 +43,6 @@ Here are some ideas to get you started:
 
 ### Projects
 1. [scheme-compiler](https://github.com/taimoon/scheme-compiler)
-2. [CPS-CScheme](https://github.com/taimoon/CPS-CScheme)
-3. [Python Note](https://github.com/taimoon/Note)
-4. [Final Year Project - Graph for Fraud Detection](https://github.com/taimoon/graph-for-fraud-detection)
-5. [nand2tetris: building a modern computer from first principles](https://github.com/taimoon/nand2tetris)
+2. [scheme-interpreter](https://github.com/taimoon/scheme-interpreter)
+3. [Final Year Project - Graph for Fraud Detection](https://github.com/taimoon/graph-for-fraud-detection)
+4. [nand2tetris: building a modern computer from first principles](https://github.com/taimoon/nand2tetris)
