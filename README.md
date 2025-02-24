@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - I'm Teng Man
 - Data Engineer sepcialised in ETL Development
 - Tech Stack similar to https://github.com/elixierco/elixier
-- Data analytic gradaute from Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA)
+- Data analytic graduate from Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA)
 - Enjoy math, programming, reading, music
 - Working Knowledge of Deep Learning, Machine Learning, Graph ML using Pytorch, Pytorch Geometric
 - Working Knowledge of Programming Language Implementation
