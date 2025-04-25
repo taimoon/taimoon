@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 ### About Me
 - I'm Teng Man
-- Data Engineer sepcialised in ETL Development
-- Tech Stack similar to https://github.com/elixierco/elixier
+- Software Engineer at Quality Assurance Department in semiconductor field
+- Techstack: C, C++, python, bash, Make, CMake, docker, linux
+- Previosly, a Data Engineer sepcialised in ETL Development
 - Data analytic graduate from Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA)
 - Enjoy math, programming, reading, music
 - Working Knowledge of Deep Learning, Machine Learning, Graph ML using Pytorch, Pytorch Geometric
 - Working Knowledge of Programming Language Implementation
-- Definitely not that emergency food, merely coincidental
 
 ### Current
 - Interested in Programming Language Implementation
