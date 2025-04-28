@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ### About Me
 - I'm Teng Man
 - Software Engineer at Quality Assurance Department in semiconductor field
-- Techstack: C, C++, python, bash, Make, CMake, docker, linux
+- Job techstack: C, C++, python, bash, Make, CMake, docker, linux
 - Previosly, a Data Engineer sepcialised in ETL Development
 - Data analytic graduate from Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA)
 - Enjoy math, programming, reading, music
@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 ### Current
 - Interested in Programming Language Implementation
 
-### Libraries and Tools (by Preference)
+### Tools (by Preference)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![WSL](https://img.shields.io/badge/-WSL-inactive?style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Scheme](https://img.shields.io/badge/-Scheme-inactive?style=for-the-badge)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
