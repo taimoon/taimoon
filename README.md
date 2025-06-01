@@ -13,14 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About Me
+- See [my blog](https://tengman.moe/en/about/about.html)
 - I'm Teng Man
-- Working Knowledge of Programming Languages Implementation
+- Researching Programming Languages, specifically implementation
 - Enjoy math, programming, reading, music
 - Software Engineer at Quality Assurance Department
 - Job techstack: C, C++, Python, PyTorch, CUDA, bash, Make, CMake, docker, linux
-- Previosly, Data Engineer sepcialised in ETL Development
+- Previously, Data Engineer sepcialised in ETL Development
 - Data analytic graduate from Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA)
-- Work with Deep Learning, Machine Learning, Graph ML using Pytorch, Pytorch Geometric in my data science project
+- Worked with Deep Learning, Machine Learning, Graph ML using Pytorch, Pytorch Geometric in my data science project (2023)
 
 ### Current
 - Programming Language Implementation
@@ -29,11 +30,9 @@ Here are some ideas to get you started:
 ### Tools (by Preference)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![WSL](https://img.shields.io/badge/-WSL-inactive?style=for-the-badge)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Scheme](https://img.shields.io/badge/-Scheme-inactive?style=for-the-badge)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=SQLite&logoColor=white&style=for-the-badge)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### Projects
 1. [scheme-compiler](https://github.com/taimoon/scheme-compiler)
