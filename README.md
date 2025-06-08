@@ -23,10 +23,6 @@ Here are some ideas to get you started:
 - Data analytic graduate from Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA)
 - Worked with Deep Learning, Machine Learning, Graph ML using Pytorch, Pytorch Geometric in my data science project (2023)
 
-### Current
-- Programming Language Implementation
-- Figuring out how to support Scheme's `load` in native compilation
-
 ### Tools (by Preference)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![WSL](https://img.shields.io/badge/-WSL-inactive?style=for-the-badge)
